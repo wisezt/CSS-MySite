@@ -13,6 +13,9 @@ body{
 height: 200px;
   width: 200px;
   background-color:#23eae6;
+  position: relative;
+  display: inline-block;
+  margin: 0;
 
 }
 
@@ -20,5 +23,8 @@ height: 200px;
   height: 200px;
     width: 200px;
     background-color:#1b7fbd;
+    position:relative;
+    display: inline-block;
+    margin: 0;
 
 }
